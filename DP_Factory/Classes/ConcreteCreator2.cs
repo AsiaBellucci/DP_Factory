@@ -12,7 +12,5 @@ namespace DP_Factory.Classes
         {
             return new ConcreteProduct2();
         }
-
-        
     }
 }
